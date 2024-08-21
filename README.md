@@ -1,2 +1,2 @@
 # Test.README
-Creating a test repository for
+Creating a test repository for practice
